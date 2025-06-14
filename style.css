@@ -8,7 +8,7 @@ h1 {
     color: #2a4d69;
 }
 
-/* 3. Parágrafo com fonte maior e texto judtificado */
+/* 3. Parágrafo com fonte maior e texto justificado */
 p {
     font-size: 18px;
     text-align: justify;
@@ -33,5 +33,5 @@ table {
 
 /* 7. Link muda de cor ao passar o mouse */
 a:hover{
-    color: blue;
+    color: black;
 }
