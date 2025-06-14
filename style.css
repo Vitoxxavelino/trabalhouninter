@@ -6,7 +6,6 @@ body {
 /* 2. Título com cor diferente e centralizado*/
 h1 {
     color: #2a4d69;
-    text-align: center;
 }
 
 /* 3. Parágrafo com fonte maior e texto judtificado */
@@ -29,7 +28,7 @@ img {
 
 /* 6. Tabela Estilizada */
 table {
-    border: 1px solid black;
+    border: 1px solid #2a4d69;
 }
 
 /* 7. Link muda de cor ao passar o mouse */
