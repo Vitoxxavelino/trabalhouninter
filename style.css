@@ -1,25 +1,38 @@
+/* 1. Fundo da página com cor suave */
 body {
     background-color: #f0f8ff;
 }
+
+/* 2. Título com cor diferente e centralizado*/
 h1 {
     color: #2a4d69;
     text-align: center;
 }
+
+/* 3. Parágrafo com fonte maior e texto judtificado */
 p {
     font-size: 18px;
     text-align: justify;
 }
+
+/* 4. Espaçamento maior entre os itens da lista */
 ul li {
     margin-bottom: 10px;
 }
+
+/* 5. Imagem com borda arredondadas e tamanho adequado*/
 img {
     border-radius: 10px;
     width: 100px;
     height: auto;
 }
+
+/* 6. Tabela Estilizada */
 table {
     border: 1px solid black;
 }
+
+/* 7. Link muda de cor ao passar o mouse */
 a:hover{
     color: blue;
 }
