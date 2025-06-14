@@ -14,6 +14,12 @@ ul li {
 }
 img {
     border-radius: 10px;
-    width: 300px;
+    width: 100px;
     height: auto;
+}
+table {
+    border: 1px solid black;
+}
+a:hover{
+    color: blue;
 }
